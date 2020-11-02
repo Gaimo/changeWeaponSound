@@ -1,0 +1,8 @@
+<meta>
+	<info author="MazzMan and Gaimo" version="1.0.0" name="WeaponSounds" description="Just some custom Sounds for Weapons." type="script" />
+
+	<script src="client.lua" type="client" />
+
+	<file src="sounds/weapons/ak47.wav" />
+
+</meta>
